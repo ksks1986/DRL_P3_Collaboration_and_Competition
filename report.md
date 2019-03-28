@@ -76,21 +76,21 @@ The scores when the model learning is below.
 Average window size is 100 episodes.\
 
 * DDPG\
-Episode 100	Average Score: -0.00
-Episode 200	Average Score: -0.00
-Episode 300	Average Score: -0.00
-Episode 400	Average Score: 0.010
-Episode 500	Average Score: 0.01
-Episode 600	Average Score: 0.01
-Episode 700	Average Score: 0.000
-Episode 800	Average Score: 0.08
-Episode 900	Average Score: 0.05
-Episode 1000	Average Score: 0.05
-Episode 1100	Average Score: 0.05
-Episode 1200	Average Score: 0.05
-Episode 1300	Average Score: 0.14
-Episode 1400	Average Score: 0.30
-Episode 1495	Average Score: 0.50
+Episode 100	Average Score: -0.00\
+Episode 200	Average Score: -0.00\
+Episode 300	Average Score: -0.00\
+Episode 400	Average Score: 0.010\
+Episode 500	Average Score: 0.01\
+Episode 600	Average Score: 0.01\
+Episode 700	Average Score: 0.000\
+Episode 800	Average Score: 0.08\
+Episode 900	Average Score: 0.05\
+Episode 1000	Average Score: 0.05\
+Episode 1100	Average Score: 0.05\
+Episode 1200	Average Score: 0.05\
+Episode 1300	Average Score: 0.14\
+Episode 1400	Average Score: 0.30\
+Episode 1495	Average Score: 0.50\
 Environment solved in 1395 episodes!	Average Score: 0.50
 
 **Ideas for Future Work**\
